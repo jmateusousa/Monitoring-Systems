@@ -1,0 +1,109 @@
+
+15/09/2017 - 13:03:10;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.65;Portal Representantes
+15/09/2017 - 13:03:11;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.61;AplicaÃ§Ã£o SIGA
+15/09/2017 - 13:03:11;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.63;MSSQL
+15/09/2017 - 13:03:11;tempo=6ms;TTL=128
+
+Estat¡sticas;192.168.254.66;Server Loja
+15/09/2017 - 13:03:11;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.100;Kerio
+15/09/2017 - 13:03:11;tempo=1ms;TTL=255
+
+Estat¡sticas;192.168.254.132;Impressora Compras
+15/09/2017 - 13:03:11;tempo=1ms;TTL=255
+
+Estat¡sticas;192.168.254.133;Impressora Vendas
+15/09/2017 - 13:03:11;tempo<1ms;TTL=64
+
+Estat¡sticas;192.168.254.254;Roteador Principal
+15/09/2017 - 13:03:11;tempo<1ms;TTL=64
+
+Estat¡sticas;192.168.254.101;Switch PABX
+15/09/2017 - 13:03:11;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.187;DVR 1 Cadersil
+15/09/2017 - 13:03:11;tempo=3ms;TTL=64
+
+Estat¡sticas;192.168.254.188;DVR 2 Cadersil
+15/09/2017 - 13:03:11;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.189;DVR 3 Cadersil
+15/09/2017 - 13:03:11;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.190;DVR 4 Cadersil
+15/09/2017 - 13:03:11;tempo=3ms;TTL=64
+
+Estat¡sticas;192.168.254.178;DVR 1 GalpÃ£o
+15/09/2017 - 13:03:11;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.179;DVR 2 GalpÃ£o
+15/09/2017 - 13:03:11;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.134;Relogio 1 
+15/09/2017 - 13:03:12;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.135;Relogio 2 
+15/09/2017 - 13:03:12;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.138;Relogio 3 Reserva 
+15/09/2017 - 13:18:18;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.65;Portal Representantes
+15/09/2017 - 13:18:18;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.61;AplicaÃ§Ã£o SIGA
+15/09/2017 - 13:18:18;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.63;MSSQL
+15/09/2017 - 13:18:18;tempo=6ms;TTL=128
+
+Estat¡sticas;192.168.254.66;Server Loja
+15/09/2017 - 13:18:18;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.100;Kerio
+15/09/2017 - 13:18:18;tempo=1ms;TTL=255
+
+Estat¡sticas;192.168.254.132;Impressora Compras
+15/09/2017 - 13:18:18;tempo=1ms;TTL=255
+
+Estat¡sticas;192.168.254.133;Impressora Vendas
+15/09/2017 - 13:18:18;tempo<1ms;TTL=64
+
+Estat¡sticas;192.168.254.254;Roteador Principal
+15/09/2017 - 13:18:18;tempo<1ms;TTL=64
+
+Estat¡sticas;192.168.254.101;Switch PABX
+15/09/2017 - 13:18:18;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.187;DVR 1 Cadersil
+15/09/2017 - 13:18:18;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.188;DVR 2 Cadersil
+15/09/2017 - 13:18:18;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.189;DVR 3 Cadersil
+15/09/2017 - 13:18:19;tempo=4ms;TTL=64
+
+Estat¡sticas;192.168.254.190;DVR 4 Cadersil
+15/09/2017 - 13:18:19;tempo=2ms;TTL=64
+
+Estat¡sticas;192.168.254.178;DVR 1 GalpÃ£o
+15/09/2017 - 13:18:19;tempo=3ms;TTL=64
+
+Estat¡sticas;192.168.254.179;DVR 2 GalpÃ£o
+15/09/2017 - 13:18:19;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.134;Relogio 1 
+15/09/2017 - 13:18:19;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.135;Relogio 2 
+15/09/2017 - 13:18:19;tempo<1ms;TTL=128
+
+Estat¡sticas;192.168.254.138;Relogio 3 Reserva 
